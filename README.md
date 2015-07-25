@@ -1,5 +1,5 @@
 #Blend Exchange
-Follow @mhsjlw on a journey to fix @GiantCowFilms' Node.js version of Blend Exchange! Now featuring actual database administration!
+Follow @mhsjlw on a journey to re-start (the discared version) of @GiantCowFilms' Node.js version of Blend Exchange!
 
 ##Contribute
 If you wish to contribute pull requests are welcome! However please do not change any graphics files!
